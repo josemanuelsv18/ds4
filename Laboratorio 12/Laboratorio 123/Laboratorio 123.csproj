@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B08FFE5F-DAD7-4E3E-90E3-C686C70DB4DC}</ProjectGuid>
+    <ProjectGuid>{1317B896-BF0D-4CF1-B589-A669944EFE4E}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Laboratorio_122</RootNamespace>
-    <AssemblyName>Laboratorio 122</AssemblyName>
+    <RootNamespace>Laboratorio_123</RootNamespace>
+    <AssemblyName>Laboratorio 123</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
